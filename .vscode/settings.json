@@ -1,0 +1,7 @@
+{
+    "folder-color.pathColors": [],
+    "python.analysis.extraPaths": [
+        "./app"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
+}
