@@ -6,8 +6,8 @@ import httpx
 URL = "http://127.0.0.1:8000/tasks"
 
 CONSULTAS = [
-    "¿Qué es la entropía?",
-    "¿Qué es un videojuego?",
+    "¿Qué es Minecraft?",
+    "¿Qué juego lanzo Capcom en el 2005?",
     "¿Qué es una consola?",
     "¿Qué es un RPG?",
     "¿Qué es un motor gráfico?",
