@@ -316,7 +316,7 @@ Esto permite que otras tareas de la cola continúen siendo procesadas.
 Para reproducir el proyecto desde cero:
 
 ```powershell
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Givvidal/PreEntrega7
 cd PreEntrega7
 ```
 
